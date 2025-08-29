@@ -1,1 +1,2 @@
 dataset link(in which gemma model is finetuned) - https://huggingface.co/datasets/Abirate/english_quotes
+Google colab file link - https://colab.research.google.com/drive/1ebN79tYIURx8iO4FcLVAei2Ri9NLw3qX

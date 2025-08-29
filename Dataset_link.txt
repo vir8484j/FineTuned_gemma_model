@@ -1,0 +1,1 @@
+dataset link(in which gemma model is finetuned) - https://huggingface.co/datasets/Abirate/english_quotes
